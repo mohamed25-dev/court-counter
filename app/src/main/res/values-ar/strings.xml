@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عداد النقاط</string>
+    <string name="add_three_points_string">أضف ثلاثة نقاط</string>
+    <string name="add_two_points_string">أضف نقطتين</string>
+    <string name="free_throw_string">رمية حرة</string>
+    <string name="reset_string">إعادة</string>
+    <string name="team_a_string">الفريق أ</string>
+    <string name="team_b_string">الفريق ب</string>
+</resources>
