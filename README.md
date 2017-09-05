@@ -8,7 +8,8 @@
 
 ## What I've learned :
 + Interfaces and Listeners.
-+ Using material colors
++ Using material colors.
++ Localization (Arabic & English).
 
 ## TODO :
 - [ ] Night Mode .
