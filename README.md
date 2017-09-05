@@ -1,18 +1,14 @@
-# Tour Guide App
+# Court Counter App
 
-+ Project Tour Guide of Android Basics Course.
-+ [Android Basics: Multiscreen Apps.](https://classroom.udacity.com/courses/ud843)
++ Project Court Counter of Android Basics Course.
++ [Android Basics: User Interface.](https://classroom.udacity.com/courses/ud834)
 
 ## Description 
-+ It provides you with a list of earthquakes and other info about them
-+ This app uses free API from [The USGS website](https://earthquake.usgs.gov/)
++ An app to keep track of points scored by teams during a basket ball game.
 
 ## What I've learned :
-+ Using AsyncTasks to connect to the internet.
-+ Using AsyncTask loader to connect to the internet.
-+ Reading and parsing JSON data from the internet.
-+ Customizing ListViews,using ArrayLists & ArrayAdapters.
-+ Using progress Bar and empty list view for better UX.
++ Interfaces and Listeners.
++ Using material colors
 
 ## TODO :
 - [ ] Night Mode .
